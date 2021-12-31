@@ -9,6 +9,9 @@ _A list of my commonly used Git commands_
 | ------- | ----------- |
 | `git config --global user.name “Your Name”` | Set the name that will be attached to your commits and tags |
 | `git config --global user.email “you@example.com”` | Set the email address that will be attached to your commits and tags |
+
+Advance
+
 | `git config --global color.ui auto` | Enable some colorization of Git output |
 | `git config --global --alias.[alias-name] [git-command]` | Create shortcut for a Git command. E.g. alias.glog log --graph --oneline will set git glog equivalent to git log --graph --oneline |
 | `git config --global --edit` | Open the global configuration file in a text editor for manual editing |
